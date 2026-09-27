@@ -1,9 +1,14 @@
 # demo-django
 ## Identificação:
+
 **Aluno**: Thiago Ayolphi Liuth
+
 **Matrícula**: 23.1.4005
+
 **Disciplina**: Programação Web
+
 **Curso**: Ciência da Computação
+
 **Universidade Federal de Ouro Preto, 2026**
 
 # Sistema Online
