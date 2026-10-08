@@ -13,6 +13,8 @@
 
 # Sistema Online
 
-<img width="1565" height="868" alt="image" src="https://github.com/user-attachments/assets/1ab1adcf-2784-4c2c-848b-705916440e44" />
+<img width="1325" height="899" alt="image" src="https://github.com/user-attachments/assets/340170b2-a984-4e7e-b268-adf692454acb" />
 
-<img width="1026" height="353" alt="image" src="https://github.com/user-attachments/assets/70e28575-d7cb-49c7-b31b-0a0b73c92703" />
+
+<img width="1026" height="612" alt="image" src="https://github.com/user-attachments/assets/1c1c24d9-3c3c-48af-8848-54ae9f3d980f" />
+
